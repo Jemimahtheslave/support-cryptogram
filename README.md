@@ -17,7 +17,7 @@ The Support Cryptogram project is a fun and challenging cryptogram puzzle that p
 - **Decrypted Message:**  
     ```
     QUEUE  | PAIR-PROGRAMMING | ADVISOR MEETINGS | MESSAGE INSTRUCTOR OR MENTOR
-    ------ | ------------- | --------------- | -------------------------
+    ------ | ---------------- | ---------------- | ----------------------------
     ```
 
 ## Hints
